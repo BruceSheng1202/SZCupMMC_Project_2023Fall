@@ -1,2 +1,8 @@
 # SZCupMMC_Project_2023Fall
-This is the project detail in the 2023 Shenzhen Cup Mathematical Modeling Challenge, which developed a new DCT algorithm to hide huge amounts of information in a single picture.
+This is the project detail in the 2023 Shenzhen Cup Mathematical Modeling Challenge, which developed a new DCT algorithm to hide huge amounts of information in a single picture. Nearly all of the materials are written in Chinese. I wrote the slides, report and the portfolio.
+
+In the context of the 2023 Shenzhen Cup Mathematical Modeling Challenge, we advanced a novel DCT graph steganography technique predicated on the principles of JPG image generation. This technological innovation attained the status of a finalist due to its efficacy in concealing a substantial volume of information within a singular image, while incurring minimal visual loss. To elucidate further, the technique adeptly obscured over 170,000 Chinese characters encoded in GBK, equivalent to approximately 60,000 English words in UTF-8, all the while preserving a visual similarity exceeding 98%, as measured by conventional metrics (RMSE/UQI/SSIM/NC). 
+
+Notably, the project marked the our inaugural foray into this domain, underscoring his exceptional adaptability and capacity to confront and surmount novel challenges with acumen.
+
+Further, youcan see our code [in this site](https://github.com/MingyangLi7278/2023shenzhencup-problemB), which were summaried by [Mingyang Li](https://github.com/MingyangLi7278). And the main programmer [Sihan Lan](https://www.zhihu.com/people/sihan-80-73) prepared the tutorials in [Zhihu](https://zhuanlan.zhihu.com/p/666786913). Apart from a promising data scientist, he is a great original folk singer. You can listen to his beautiful music [hear](https://music.163.com/#/artist?id=34908789).
